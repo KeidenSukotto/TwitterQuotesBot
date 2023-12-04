@@ -1,6 +1,6 @@
 # Inspirational Quote Twitter Bot
 
-This Python script is designed to scrape inspirational quote images from a specific website, download them, and post them on Twitter using the Tweepy library. The script is well-structured and follows a series of steps to achieve its goal.
+This Python script is designed to scrape inspirational quote images from a specific website, download them, and post them on Twitter using the Tweepy library.
 
 ## Scrapping Images Sources
 
