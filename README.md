@@ -25,5 +25,3 @@ The `create_tweet` function takes the filename of the next image to post. It upl
 ## Execution
 
 Finally, the script is executed by calling `create_tweet(get_image())`. This retrieves the next image to post, creates a tweet, and updates the count, ensuring that a new inspirational quote is shared on Twitter each time the script is run.
-
-This script is a basic implementation of a Twitter bot that shares inspirational quotes and can be extended or customized further to include additional features or functionality.
